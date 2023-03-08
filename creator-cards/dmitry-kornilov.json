@@ -1,0 +1,32 @@
+{
+    "name": "Dmitry Kornilov",
+    "sectionTitle": null,
+    "countryCode": "ru",
+    "slogan": "",
+    "type": "CREATOR",
+    "bio": "I am Dmitry, a leasure time dev known as HazardEdit. I am currently studying computer science at university in mother russia.",
+    "tags": ".NET, C#, Game, Hacking",
+    "socials": {
+      "youtube": "https://www.youtube.com/@HazardEdit",
+      "linkedin": "",
+      "twitter": "https://twitter.com/hazardedit",
+      "github": "https://github.com/HazardEdit",
+      "mastodon": "",
+      "sessionize": ""
+    },
+    "channels": [
+      {
+        "name": "Site",
+        "url": "http://hazardedit.com/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@HazardEdit"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://instagram.com/codeclassic"
+      }
+    ],
+    "feeds": []
+  }
